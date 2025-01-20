@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Thierry Kamagne",
+    "label": "Senior Data Engineer | Machine Learning, AI & Cloud Enthusiast",
+    "picture": "https://avatars.githubusercontent.com/u/14333637?v=4",
+    "website": "https://tkamag.github.io",
+    "summary": "I am currently a Senior Data Consultant in a professionnal service who works with builders, technology leaders and enterprise executives to help them transform their businesses.!",
+    "location": {
+      "address": "",
+      "postalCode": "75016",
+      "city": "Paris",
+      "countryCode": "France",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "tkamag",
+        "url": "http://github.com/tkamag"
+      },
+      {
+        "network": "linkedin",
+        "username": "tkamag",
+        "url": "https://www.linkedin.com/in/trkamagne/"
+      },
+      {
+        "network": "twitter",
+        "username": "tkamag",
+        "url": "https://twitter.com/tkamag"
+      },
+      {
+        "network": "medium",
+        "username": "tkamag",
+        "url": "https://medium.com/@tkamag" 
+      }
+      
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cloud Infrastructure",
+      "keywords": ["AWS"]
+    },
+    {
+      "name": "Formule 1",
+      "keywords": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Shell scripting",
+        "HTML",
+        "CSS",
+        "SAS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level":"",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "endDate": ""
+    },
+    {
+      "institution": "",
+      "area": "",
+      "endDate": ""
+    }
+  ],
+  "work": [
+    {
+      "company": "Avisia",
+      "position": "IT Consultant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ]
+}
