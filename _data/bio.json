@@ -15,8 +15,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "tkamag",
-        "url": "http://github.com/tkamag"
+        "username": "trkamag",
+        "url": "http://github.com/trkamag"
+      },
+      {
+        "network": "Bsky",
+        "username": "trbskamag",
+        "url": "https://bsky.app/profile/trkamag.bsky.social"
       },
       {
         "network": "linkedin",
@@ -25,8 +30,8 @@
       },
       {
         "network": "twitter",
-        "username": "tkamag",
-        "url": "https://twitter.com/tkamag"
+        "username": "thierry1411",
+        "url": "https://twitter.com/thierry1411"
       },
       {
         "network": "medium",
